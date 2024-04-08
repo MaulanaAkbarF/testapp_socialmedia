@@ -1,0 +1,3 @@
+class DetailPostModel {
+  var postDetail;
+}

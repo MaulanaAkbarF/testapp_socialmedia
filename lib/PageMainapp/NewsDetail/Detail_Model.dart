@@ -1,0 +1,3 @@
+class DetailUserModel {
+  var userDetail;
+}
